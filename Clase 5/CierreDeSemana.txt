@@ -1,0 +1,5 @@
+Hacemos un cierre de semana y repasamos el ejercicio del Lemon Pie en html
+link del Figma del lemon pie https://www.figma.com/file/E8Orh57Weqm2a4UuU4nmdT/Clase-05---Etiquetas?node-id=0%3A1
+
+
+Aprendemos codigo &nbsp; sirve para generar una especie de sangria
