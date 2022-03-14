@@ -1,0 +1,11 @@
+p  {
+    color: red;
+}
+.title{
+    font-size: 16px ;
+    font-weight: normal;
+    color: blue;
+}
+#noticias{
+    text-align: center;
+}
