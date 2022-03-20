@@ -1,0 +1,16 @@
+html{
+    max-width: 800px;
+    max-height: 1000px;
+}
+.personal{
+    height: 1080px;
+    width: 50%;
+    float: left;
+}
+h1, h2{
+    text-align: center;
+    text-decoration: underline;
+}
+ul{
+    text-align: center; 
+}
