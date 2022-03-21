@@ -1,0 +1,15 @@
+header{
+    width: 35%;
+    background-color: red;
+    height: 300px;
+    float: left;
+}
+main{
+    float: left;
+    background-color: brown;
+    height: 1000px;
+    width: 65%;
+}
+aside{
+    float: left; 
+}
