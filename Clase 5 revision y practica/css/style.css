@@ -1,0 +1,30 @@
+
+header{
+    height: 20px;
+    background-color: black;
+}
+header .der{
+  margin-left: 1550px;
+}
+header .der2{
+    margin-left: 20px;
+}
+header a{
+    color: white;
+}
+nav {
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav .logo{
+    margin: 10px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 40px;
+}
+.banner{
+    width: 100%;
+}

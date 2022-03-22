@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#barra-top{
+    background-color: #1CD1B0;
+    height: 30px;
+}
+#barra-top p{
+    padding: 5px;
+}
+header{
+    background-color: #00669F;
+    height: 100px;
+}
+.tituloPagina{
+    padding: 15px;
+    font-weight: lighter;
+}
+main{
+    height: 960px;
+}
+.cards{
+    margin: 100px auto;
+    width: 80%;
+    height: 530px;
+    /**border: 1px solid black;**/
+}
+#card{
+    margin-left: 150px;
+    width: 300px;
+    height: 522px;
+    /**border: 1px solid pink;**/
+    position: absolute;
+}
+#card2{
+    width: 300px;
+    height: 522px;
+    /**border: 1px solid pink;**/
+    position: absolute;
+    margin-left: 600px;
+}
+#card3{
+    width: 300px;
+    height: 522px;
+    /**border: 1px solid pink;**/
+    position: absolute;
+    margin-left: 1050px;
+}
+#img-fondo{
+    width: 300px;
+    height: 193px;
+    /**border: 1px solid yellow;**/
+}
+#contenido{
+    height: 336px;
+    /**border: 1px solid green;**/
+}
+#imagen-perfil{
+    width: 120px;
+    height: 118px;
+    /**border: 1px solid blue;**/
+    bottom: 282px;
+    left: 90px;
+    position: absolute;
+}
+h2{
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 70px;
+}
+.perfil{
+    border-radius: 50%;
+    position: relative;
+}
+.perfil2{
+    border-radius: 50%;
+    position: relative;
+}
+.perfil3{
+    border-radius: 50%;
+    position: relative;
+}
+.personaje{
+    margin-top: 20px;
+    text-align: justify;
+    padding: 1em;
+}
+.boton{
+    background-color: #00669F;
+    color: white;
+    width: 128px;
+    height: 48px;
+    margin-left:86px;
+    margin-top: 50px;
+}
+input{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+footer{
+    height: 40px;
+    background-color: #00669F;
+    color: white;
+    font-family: robo;
+}
+footer p{
+    padding: 0.5em;
+}
+
+
+
